@@ -64,5 +64,3 @@ Bu senaryoda, büyük bir ağın alt ağlara bölünmesi ve her alt ağın farkl
 - Alt Ağ 2: `192.168.3.0/24` - Üretim Bölgesi
 
 ---
-
-Bu belge, ağ temelleri konusundaki genel bilgileri sağlamak ve örnek senaryolar ile detaylandırmak amacıyla oluşturulmuştur. Daha fazla ayrıntı ve örnek kodlar için ilgili klasörlere başvurabilirsiniz.
